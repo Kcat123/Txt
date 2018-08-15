@@ -12,13 +12,6 @@ icon="http://kodicat.com/cat-img/icon.png"
 fanart="http://kodicat.com/cat-img/fanart.jpg" 
 description="סרטון הדרכה שלב אחרי שלב להתקנה נקיה לבילד Phenomenal."
 
-name="מדריך - התקנת עדכונים מהירים לבילדים" 
-section="no" 
-url="https://youtu.be/f4HjOeXYiE4"
-icon="http://kodicat.com/cat-img/icon.png" 
-fanart="http://kodicat.com/cat-img/fanart.jpg" 
-description="מדריך - תהליך "עדכון מהיר" לבילדים."
-
 name="ניקוי נתונים בקודי - חלונות ואנדרואיד" 
 section="no" 
 url="https://youtu.be/4Pb3zzKGsmo"
