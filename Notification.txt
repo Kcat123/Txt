@@ -1,8 +1,8 @@
-2
+3
 |||
 ===================================================
-[COLOR red][B](15.08.2018) - עדכון מהיר - KodiCat Eminence Mod![/COLOR][/B]
+[COLOR red][B](26.08.2018) - עדכון מהיר - KodiCat Eminence Mod![/COLOR][/B]
 ===================================================
-[COLOR orange][B]- עדכון גרסה V1.8.8 להרחבת הכתוביות AS.[/COLOR][/B]
-[COLOR orange][B]- עדכון גרסה V1.3.5 להרחבת "הנוקם הראשון" - תיקון מהירות ההרחבה ועדכון שרתים.[/COLOR][/B]
-[COLOR orange][B]- עדכון והוספת ההרחבה "Movix Live" לבילד.[/COLOR][/B]
+[COLOR orange][B]- עדכון גרסה V1.9.1 להרחבת הכתוביות AS.[/COLOR][/B]
+[COLOR orange][B]- עדכון גרסה V4.0.9 להרחבת "One-Click".[/COLOR][/B]
+[COLOR orange][B]- עדכון הרחבה V1.3.5 להרחבת "Movix Live"[/COLOR][/B]
