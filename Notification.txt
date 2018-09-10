@@ -1,4 +1,4 @@
-5
+0
 |||
 ===================================================
 [COLOR red][B](30.08.2018) - עדכון מהיר - KodiCat Eminence Mod![/COLOR][/B]
@@ -7,3 +7,4 @@
 [COLOR orange][B]• עדכון גרסה V4.1.2 להרחבת "One-Click".[/COLOR][/B]
 [COLOR orange][B]• הוספת ריפו להרחבת "Movix Live".[/COLOR][/B]
 [COLOR orange][B]• עדכון (תיקון) גרסה V1.3.6 להרחבת "הנוקם הראשון".[/COLOR][/B]
+55555
