@@ -34,7 +34,7 @@ preview="http://"
 adult="no"
 description="KodiCat - Phenomenal: Server 1"
 
-name="KodiCat - Phenomenal: Server 2 (לא פעיל)"
+name="KodiCat - Phenomenal: Server 2"
 version="1.2"
 url="https://wave.seedhost.eu/kodicat/1/KCat-Phenomenal.zip"
 gui="http://"
