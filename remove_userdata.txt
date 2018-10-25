@@ -1,1 +1,1 @@
-Remove: plugin.video.Yoda
+Remove: weather.yahoo
