@@ -1,1 +1,1 @@
-Remove: plugin.video.metalliq
+Remove: plugin.video.Yoda
