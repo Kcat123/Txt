@@ -1,1 +1,1 @@
-Remove: plugin.video.streamsRus
+Remove: plugin.video.sli
