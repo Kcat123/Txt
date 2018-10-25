@@ -1,1 +1,1 @@
-Remove: plugin.video.idanplus
+Remove: plugin.video.jksp
