@@ -1,1 +1,1 @@
-Remove: weather.yahoo
+Remove: plugin.program.Anonymous
