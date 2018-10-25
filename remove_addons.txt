@@ -1,1 +1,1 @@
-Remove: plugin.video.SkyNet
+Remove: plugin.video.Yoda
