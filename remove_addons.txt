@@ -1,1 +1,1 @@
-Remove: plugin.program.Anonymous
+Remove: plugin.video.idanplus
