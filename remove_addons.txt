@@ -1,1 +1,1 @@
-Remove: plugin.video.jksp
+Remove: plugin.video.streamsRus
