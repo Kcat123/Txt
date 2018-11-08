@@ -1,3 +1,4 @@
 Remove: plugin.audio.thunderstruck
 Remove: repository.uk1
 Remove: repository.elementum
+Remove: plugin.video.SportsDevil
