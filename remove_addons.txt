@@ -4,3 +4,4 @@ Remove: repository.elementum
 Remove: plugin.video.SportsDevil
 Remove: plugin.video.allmoviesin
 Remove: plugin.video.streamsRus
+Remove: program.plexus
