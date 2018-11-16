@@ -5,6 +5,3 @@ Remove: plugin.video.SportsDevil
 Remove: plugin.video.allmoviesin
 Remove: plugin.video.streamsRus
 Remove: program.plexus
-Remove: plugin.program.master_pen
-Remove: plugin.video.TheFirstAvenger
-Remove: plugin.video.TheFirstAvengertvshow
