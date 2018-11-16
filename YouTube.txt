@@ -5,13 +5,6 @@ icon="http://kodicat.com/cat-img/icon.png"
 fanart="http://kodicat.com/cat-img/fanart.jpg" 
 description="סרטון הדרכה שלב אחרי שלב להתקנה נקיה לבילד Eminence."
 
-name="מדריך - התקנה נקיה לבילד Phenomenal" 
-section="no" 
-url="https://youtu.be/4XCA6cOMIXU"
-icon="http://kodicat.com/cat-img/icon.png" 
-fanart="http://kodicat.com/cat-img/fanart.jpg" 
-description="סרטון הדרכה שלב אחרי שלב להתקנה נקיה לבילד Phenomenal."
-
 name="ניקוי נתונים בקודי - חלונות ואנדרואיד" 
 section="no" 
 url="https://youtu.be/4Pb3zzKGsmo"
