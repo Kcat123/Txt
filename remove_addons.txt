@@ -1,7 +1,2 @@
-Remove: plugin.audio.thunderstruck
-Remove: repository.uk1
 Remove: repository.elementum
 Remove: plugin.video.SportsDevil
-Remove: plugin.video.allmoviesin
-Remove: plugin.video.streamsRus
-Remove: program.plexus
