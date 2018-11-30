@@ -2,4 +2,4 @@ Remove: plugin.video.Yoda
 Remove: script.module.Yoda
 Remove: script.Yoda.artwork
 Remove: script.Yoda.metadata
-Remove: plugin.video.TheFirstAvengertvsho
+Remove: plugin.video.TheFirstAvengertvshow
