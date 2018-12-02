@@ -3,3 +3,4 @@ Remove: script.module.Yoda
 Remove: script.Yoda.artwork
 Remove: script.Yoda.metadata
 Remove: plugin.video.TheFirstAvengertvshow
+Remove: plugin.video.metalliq
