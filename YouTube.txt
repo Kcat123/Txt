@@ -1,6 +1,6 @@
 name="מדריך - התקנה נקיה לבילד Eminence" 
 section="no" 
-url="https://youtu.be/jWGg4-9u7Qc"
+url="https://youtu.be/Z1z_fL7r-H0"
 icon="http://kodicat.com/cat-img/icon.png" 
 fanart="http://kodicat.com/cat-img/fanart.jpg" 
 description="סרטון הדרכה שלב אחרי שלב להתקנה נקיה לבילד Eminence."
