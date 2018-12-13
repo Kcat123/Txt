@@ -1,6 +1,9 @@
-Remove: plugin.video.Yoda
-Remove: script.module.Yoda
-Remove: script.Yoda.artwork
-Remove: script.Yoda.metadata
-Remove: plugin.video.TheFirstAvengertvshow
-Remove: plugin.video.metalliq
+Remove: repository.dragonmedia
+Remove: repository.kodibae
+Remove: plugin.video.kodipopcorntime.repository
+Remove: plugin.program.super.favourites
+Remove: plugin.video.ccloudtv
+Remove: plugin.video.kratos
+Remove: script.kratos.artwork
+Remove: repository.uk1
+Remove: repository.ukodi1
