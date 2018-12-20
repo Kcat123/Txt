@@ -1,7 +1,5 @@
 Remove: repository.dragonmedia
 Remove: repository.kodibae
-Remove: plugin.video.kodipopcorntime.repository
-Remove: plugin.video.kodipopcorntime
 Remove: plugin.program.super.favourites
 Remove: plugin.video.ccloudtv
 Remove: plugin.video.kratos
