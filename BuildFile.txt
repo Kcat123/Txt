@@ -1,5 +1,5 @@
 name="KodiCat - Eminence Mod: Server 1"
-version="2.0"
+version="2.1"
 url="https://white.seedhost.eu/kodicat/1/KCat-Emi-17.6.zip"
 gui=""
 kodi="17.6"
