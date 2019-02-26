@@ -1,5 +1,1 @@
-Remove: plugin.video.metalliq
-Remove: repository.cdrepo
-Remove: repository.supremacy
-Remove: repository.13clowns
-Remove: script.module.globalscrapers
+
