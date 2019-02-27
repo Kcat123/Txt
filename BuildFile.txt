@@ -12,7 +12,7 @@ description="KodiCat - Eminence Mod: Server 1"
 
 name="KodiCat - Eminence Mod 18"
 version="1.1"
-url="https://white.seedhost.eu/kodicat/1/KCat-Emi-18.0.zip"
+url="https://white.seedhost.eu/kodicat/1/KCat-Emi-18.1.zip"
 gui="https://white.seedhost.eu/kodicat/1/Updates/KCat-Emi-18.0-U.zip"
 kodi="18.1"
 theme="http://"
