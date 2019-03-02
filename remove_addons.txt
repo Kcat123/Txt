@@ -1,1 +1,2 @@
-
+Remove: plugin.video.Kids.Tv
+Remove: plugin.video.smallkids
