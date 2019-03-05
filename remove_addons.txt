@@ -1,2 +1,9 @@
 Remove: plugin.video.Kids.Tv
 Remove: plugin.video.smallkids
+Remove: plugin.video.exodus
+Remove: script.module.exodus
+Remove: script.exodus.artwork
+Remove: script.exodus.metadata
+Remove: plugin.program.indigo
+Remove: repository.13clowns
+Remove: repository.xbmchub
