@@ -1,5 +1,3 @@
-Remove: plugin.video.Kids.Tv
-Remove: plugin.video.smallkids
 Remove: plugin.video.exodus
 Remove: script.module.exodus
 Remove: script.exodus.artwork
