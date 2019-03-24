@@ -22,7 +22,7 @@ preview="http://"
 adult="no"
 description="KodiCat - Eminence Mod 18"
 
-name="KodiCat Aura 18 (Test)"
+name="KodiCat Aura 18"
 version="1.0"
 url="https://white.seedhost.eu/kodicat/1/media.zip"
 gui=""
