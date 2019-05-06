@@ -10,7 +10,7 @@ preview="http://"
 adult="no"
 description="KodiCat - Eminence Mod: Server 1"
 
-name="KodiCat Aura 18 (coming soon)"
+name="KodiCat Aura 18"
 version="1.0"
 url=""
 gui=""
