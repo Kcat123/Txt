@@ -33,7 +33,7 @@ fanart="https://raw.githubusercontent.com/Kcat123/images/master/fanart.jpg"
 preview="http://"
 adult="No"
 description="KodiCat - Eminence Mod 18"
-=========================
+
 name="KodiCat Fuse (Test Only)"
 version="1.0"
 url="https://white.seedhost.eu/kodicat/1/KCat-Fuse-18.zip"
