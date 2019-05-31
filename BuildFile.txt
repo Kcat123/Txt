@@ -34,7 +34,7 @@ preview="http://"
 adult="No"
 description="KodiCat - Eminence Mod 18"
 
-name="KodiCat Fuse (Test Only)"
+name="KodiCat Fuse"
 version="1.0"
 url="https://white.seedhost.eu/kodicat/1/KCat-Fuse-18.zip"
 gui=""
