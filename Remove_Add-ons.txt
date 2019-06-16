@@ -1,0 +1,2 @@
+Remove: repository.kidsRepo
+Remove: plugin.video.TheFirstAvengerMoviesSeries
