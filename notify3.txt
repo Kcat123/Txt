@@ -3,5 +3,19 @@
 ______
 Au 18.2
 
-[B][COLORred]13Clowns[/COLOR][/B], addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.[br]
-The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
+רשימת שינויים/עדכונים:
+√ הוספת גרסה חדשה להרחבת הנוקם הראשון -  סרטים/סדרות בתרגום מובנה.
+√ עדכון ןהתאמת תפריטים וקיצורי דרך על פי הגרסה החדשה של הרחבת הנוקם.
+√ הסרת ההרחבה הישנה של הנוקם הראשון מתוך הבילד במעמד הרצת העדכון.
+___________________________
+על מנת לקבל את העדכונים המהירים יש בשלב ראשון לצאת ולהיכנס חזרה לקודי ולהמתין לחלון מידע של העדכון. 
+במידה וחלון המידע לא קפץ או נסגר ניתן לעדכן את העדכון המהיר גם בצורה עצמאית ע"פ הדרך המצ"ב.▼
+נכנסים כרגיל להרחבת תוכנות "KodiCat Wizard" (תחזוקה/הרחבות תוכנות)->התקנת בילדים->בחירה בבילד שמותקן->עדכונים מהירים->התקנה.
+___________________________
+להוראות התקנה לבילדים, מדריכים ושאלות נפוצות יש להכנס לפוסט המוצמד בכתובת: https://www.facebook.com/groups/TheKodiCat/permalink/1020037024842592/
+
+קישור הזמנה לקבוצת הטלגרם שלנו:
+https://t.me/joinchat/FzoAxVWkZnIkQWGJl3zAEg
+
+❤️ תרומות ועזרה לתפעול ותחזוקת השרת ( גם התרומה הצנועה ביותר) יעזרו ויתקבלו בברכה:
+https://www.paypal.me/TheKodiCat123
