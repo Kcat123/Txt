@@ -1,18 +1,4 @@
-13
+16
 |||
-*********************************************************************************
-
-Updated Clowns Build to 1.0.6
--Adjusted links 
--Fixed a few broken links. 
--Added more kids stuff
-
-For all Vetrans/Active Military WE SOLUTE YOU!!
-For all Vetrans/Active Military WE SOLUTE YOU!!
-For all Vetrans/Active Military WE SOLUTE YOU!!
-For all Vetrans/Active Military WE SOLUTE YOU!!
-For all Vetrans/Active Military WE SOLUTE YOU!!
-
-=================================================================================
-[B][COLORred]13Clowns[/COLOR][/B], addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.[br]
-The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works
+**************
+Emi 18.2
