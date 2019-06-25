@@ -1,6 +1,0 @@
-name="לא זמין!" 
-section="no" 
-url=""
-icon="http://kodicat.com/cat-img/icon.png" 
-fanart="http://kodicat.com/cat-img/fanart.jpg" 
-description="סרטון הדרכה שלב אחרי שלב להתקנה נקיה לבילד Eminence."
