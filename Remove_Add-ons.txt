@@ -1,1 +1,7 @@
-
+Remove: repository.tikipeter
+Remove: plugin.video.fen
+Remove: script.tiki.artwork
+Remove: script.module.tikiscrapers
+Remove: script.module.tikimeta
+Remove: plugin.video.openmeta
+Remove: repository.addons4kodi
