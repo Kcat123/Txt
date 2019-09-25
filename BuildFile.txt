@@ -11,7 +11,7 @@ adult="No"
 description="KodiCat - Eminence Mod: Server 1"
 
 name="KodiCat Aura 18"
-version="1.4"
+version="1.5"
 url="http://kodi4you.xyz/18/KCat-Aura-18.zip"
 gui=""
 kodi="18.3"
