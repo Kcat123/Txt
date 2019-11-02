@@ -1,6 +1,6 @@
 name="KodiCat - Eminence Mod: Server 1"
 version="3.1"
-url="http://kodi4you.xyz/17/KCat-Emi-17.zip"
+url="http://stig.seedhost.eu/kcat2/123/KCat-Emi-17.zip"
 gui=""
 kodi="17.6"
 theme="http://"
