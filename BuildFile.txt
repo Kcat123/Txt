@@ -1,6 +1,6 @@
 name="KodiCat - Eminence Mod: Server 1"
 version="3.1"
-url="https://kcat123-seedbucket.cloud.seedboxes.cc/api/share/V3Q5ALKe8Cd3Yp6Nqz8W"
+url="https://kcat123-seedbucket.cloud.seedboxes.cc/api/share/VpzlhNf37ExE5R7Iajrc"
 gui=""
 kodi="17.6"
 theme="http://"
