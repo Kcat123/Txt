@@ -24,7 +24,7 @@ description="KodiCat - Eminence Mod 18"
 
 name="KodiCat Aura 18"
 version="1.6"
-url="http://kodi4you.xyz/18/KCat-Aura-18.zip"
+url="https://kcat123-seedbucket.cloud.seedboxes.cc/api/share/5s8KmSkcnr66y4QpdLOY"
 gui=""
 kodi="18.4"
 theme="http://"
