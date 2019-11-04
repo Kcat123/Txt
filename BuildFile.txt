@@ -12,7 +12,7 @@ description="KodiCat - Eminence Mod: Server 1"
 
 name="KodiCat - Eminence Mod 18"
 version="2.0"
-url="http://kodi4you.xyz/18/KCat-Emi-18.zip"
+url="https://kcat123-seedbucket.cloud.seedboxes.cc/api/share/N9JenUzJqvYmhU8HhIgF"
 gui=""
 kodi="18.4"
 theme="http://"
