@@ -1,6 +1,6 @@
 name="skin.pellucid 18"
 version="1.0"
-url="https://k4you.xyz/Test/skin.pellucid-18.zip"
+url="https://k4you.xyz/Test/KCat-Pell-18.zip"
 gui=""
 kodi="18.5"
 theme="http://"
