@@ -1,4 +1,3 @@
-zip=" "
 name=" Poodle Basic 17.6 Krypton"
 version=" [COLOR limegreen]1.0.3[/COLOR] "
 url="https://drive.google.com/open?id=1fKj9iOpvTAr0YzK6jzt402qyMpZfYKdV"
@@ -10,7 +9,7 @@ fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="https://"
 adult="no"
 description=" Poodle Basic Build for Kodi 17.6 Krypton"
-filesize="80"
+
 
 zip=" "
 name=" Poodle Basic 18.5 Leia"
