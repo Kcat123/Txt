@@ -1,6 +1,6 @@
 name="KodiCat Aura 18 - Temp"
 version="2.0"
-url="https://k4you.xyz/Builds/18/KCat-Aura-18.zip"
+url="https://drive.google.com/open?id=1QfUodkyw66I-DCpgp-CSYecrkDKBBUPR"
 gui=""
 kodi="18.5"
 theme="http://"
