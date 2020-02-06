@@ -2,7 +2,7 @@
 
 name="KodiCat Aura 18-00"
 version="1.0"
-url="https://drive.google.com/file/d/1tR0JzzOeF56f49ENSj9rgKOieqZoj86A/view?usp=sharing"
+url="https://drive.google.com/open?id=1tR0JzzOeF56f49ENSj9rgKOieqZoj86A"
 gui=""
 kodi="18.5"
 theme="http://"
