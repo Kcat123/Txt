@@ -1,1 +1,2 @@
 Remove: plugin.video.TheFirstAvenger
+Remove: repository.NoName
