@@ -1,4 +1,5 @@
-coding: utf-8
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 name="Estuary 18 Basic Build"
 version="1.0.3"
