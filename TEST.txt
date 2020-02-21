@@ -4,7 +4,7 @@ zip="https://kpoodle.github.io/repo/"
 
 name="Estuary 18 Basic Build"
 version="1.0.3"
-url="https://github.com/Kpoodle/Builds/raw/master/Estuary18Basic103.zip"
+url="https://github.com/Kcat123/Txt/raw/master/Estuary17Basic103.zip"
 gui=""
 kodi="18.5"
 theme="http://"
