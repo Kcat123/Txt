@@ -1,6 +1,6 @@
-id="plugin.program.PoodleWizard"
+id="plugin.program.PooodleWizard"
 version="1.0.1c"
-zip="https://github.com/Kpoodle/Repo1/raw/master/zips/plugin.program.PoodleWizard/plugin.program.PoodleWizard-1.0.1c.zip"
+zip="https://kpoodle.github.io/repo/"
 
 name="Estuary 18 Basic Build"
 version="1.0.3"
