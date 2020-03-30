@@ -1,3 +1,4 @@
 Remove: plugin.video.TheFirstAvenger
 Remove: repository.NoName
 Remove: repository.elementum
+Remove: service.xbmc.versioncheck
