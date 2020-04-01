@@ -40,7 +40,7 @@ description="KodiCat - Eminence Mod 18"
 
 name="KodiCat - Fuse 18"
 version="1.1"
-url="https://drive.google.com/uc?export=download&id=15KOKmu7L6BV6qlri80Pb82UqFfkx1dL1"
+url="https://wolf.seedhost.eu/kcat2/Builds/18/KCat-Fuse-18.zip"
 gui=""
 kodi="18.6"
 theme="http://"
