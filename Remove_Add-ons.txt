@@ -4,5 +4,4 @@ Remove: repository.elementum
 Remove: service.xbmc.versioncheck
 Remove: plugin.video.FlashTV
 Remove: plugin.video.MyYoutube
-Remove: plugin.video.Serviceil
 Remove: script.module.urlresolver
