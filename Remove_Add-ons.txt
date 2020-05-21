@@ -5,3 +5,4 @@ Remove: service.xbmc.versioncheck
 Remove: plugin.video.FlashTV
 Remove: plugin.video.MyYoutube
 Remove: script.module.urlresolver
+Remove: repository.thecrew
