@@ -1,6 +1,6 @@
 Remove: plugin.program.indigo
-Remove: plugin.video.MyYoutube
 Remove: plugin.video.FlashTV
+Remove: plugin.video.MyYoutube
 Remove: plugin.video.TheFirstAvenger
 Remove: repository.elementum
 Remove: repository.exodusredux
