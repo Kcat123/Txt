@@ -7,3 +7,6 @@ Remove: plugin.video.MyYoutube
 Remove: script.module.urlresolver
 Remove: repository.thecrew
 Remove: plugin.program.indigo
+Remove: repository.xbmchub
+Remove: repository.exodusredux
+Remove: repository.kodibae
