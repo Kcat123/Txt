@@ -1,6 +1,7 @@
 Remove: plugin.program.autowidget
 Remove: plugin.program.indigo
 Remove: plugin.program.super.favourites
+Remove: plugin.video.allmoviesin
 Remove: plugin.video.FlashTV
 Remove: plugin.video.MyYoutube
 Remove: plugin.video.TheFirstAvenger
