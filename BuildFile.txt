@@ -1,5 +1,5 @@
 id="plugin.program.KodiCatWizard"
-version="3.4a"
+version="3.5"
 zip="https://kcat123.github.io/repo/"
 
 name="KodiCat - Eminence Mod 17"
