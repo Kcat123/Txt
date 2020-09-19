@@ -39,7 +39,7 @@ adult="No"
 description="KodiCat - Eminence Mod 18"
 
 name="KodiCat - Fuse 18"
-version="1.3"
+version="1.4"
 url="https://server1056.seedhost.eu/ftvtorrents/Builds/18/KCat-Fuse-18.zip"
 gui=""
 kodi="18.8"
