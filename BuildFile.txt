@@ -51,7 +51,7 @@ adult="No"
 description="KodiCat - Fuse 18 - 45.7 MB"
 
 name="KodiCat - Pellucid 18"
-version="1.0"
+version="1.1"
 url="https://server1056.seedhost.eu/ftvtorrents/Builds/18/KCat-Pellucid-18.zip"
 gui=""
 kodi="18.8"
