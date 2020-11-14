@@ -8,6 +8,7 @@ Remove: repository.elementum
 Remove: repository.exodusredux
 Remove: repository.kodibae
 Remove: repository.KodiCat-Add-ons
+Remove: repository.sdarot
 Remove: repository.tva.common
 Remove: repository.xbmchub
 Remove: script.module.urlresolver
