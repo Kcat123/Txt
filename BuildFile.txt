@@ -40,7 +40,7 @@ description="KodiCat - Eminence Mod 18 - 100 MB"
 
 name="KodiCat - Pellucid 18"
 version="1.2"
-url="https://server1056.seedhost.eu/ftvtorrents/Builds/18/KCat-Pellucid-18.zip"
+url="https://kcat123.github.io/KB/KCat-Pellucid-18.zip"
 gui=""
 kodi="18.9"
 theme="http://"
