@@ -15,7 +15,7 @@ adult="No"
 description="KodiCat - Eminence Mod 17"
 
 name="KodiCat Aura 18"
-version="2.8"
+version="2.9"
 url="https://kcat123.github.io/TKC-B/KCat-Aura-18.zip"
 gui=""
 kodi="18.9"
