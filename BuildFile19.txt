@@ -1,34 +1,17 @@
-name="Element"
-version="1.3"
-url="http://cmanbuilds.com/K19Builds/Element.zip"
+id="plugin.program.KodiCat.Wizard19"
+version="1.0"
+zip=""
+
+name=""
+version="1.0"
+url=""
 minor="http://"
 gui="http://"
 kodi="19.0"
 theme="http://"
-icon="http://cmanbuilds.com/images/Element.jpg"
-fanart="http://cmanbuilds.com/images/Element.jpg"
+icon=""
+fanart=""
 preview="http://"
 adult="no"
 info="http://"
 description="Element Build by cMaN"
-
-name="Slate by Red 79"
-version="1.1"
-url="http://cmanbuilds.com/K19Builds/Slate.zip"
-minor="http://"
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="http://cmanbuilds.com/images/Slate.jpg"
-fanart="http://cmanbuilds.com/images/Slate.jpg"
-preview="http://"
-adult="no"
-info="http://"
-description="Slate Build by Red 79"
-
-
-
-
-
-
-
