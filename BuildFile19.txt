@@ -1,5 +1,5 @@
 id="plugin.program.KodiCat-Wizard19"
-version="0.0.2"
+version="0.0.3"
 zip="https://kcat123.github.io/repo/"
 
 name="KodiCat Silvo 19"
