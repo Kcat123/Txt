@@ -3,7 +3,7 @@ version="4.0"
 zip="https://kcat123.github.io/repo/"
 
 name="KodiCat Aura 18"
-version="2.9"
+version="3.0"
 url="https://kcat123.github.io/TKC-B/KCat-Aura-18.zip"
 gui=""
 kodi="18.9"
