@@ -1,5 +1,5 @@
 id="plugin.program.KodiCat-Wizard19"
-version="0.0.3"
+version="0.0.3a"
 zip="https://kcat123.github.io/repo/"
 
 name="KodiCat Eminence 19"
