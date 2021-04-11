@@ -27,7 +27,7 @@ adult="No"
 description="KodiCat - Eminence Mod 18"
 
 name="KodiCat - Pellucid 18"
-version="1.5"
+version="1.6"
 url="https://kcat123.github.io/TKC-B/KCat-Pellucid-18.zip"
 gui=""
 kodi="18.9"
